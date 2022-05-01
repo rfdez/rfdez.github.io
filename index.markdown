@@ -5,78 +5,18 @@
 layout: home
 ---
 
-[![Raúl's GitHub Banner](./assets/banner.png)](https://raulfernandez.dev)
+[![Raúl's GitHub Banner](https://user-images.githubusercontent.com/49290264/166145573-1aba6af7-20e0-4fe3-a3f0-f4335323eb94.png)](https://raulfernandez.dev)
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/raul-fernandez-fernandez">
-        <img src="https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandez-fernandez)
+&ensp;
+[![GitHub](https://img.shields.io/badge/rfdez-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfdez)
+### Languages :abcd:
 
-<p align="center">
-    <a href="https://www.codewars.com/">
-        <img src="https://www.codewars.com/users/rfdez/badges/micro" alt="Codewars" />
-    </a>
-    <a href="https://www.github.com/rfdez">
-        <img src="https://komarev.com/ghpvc/?username=rfdez&color=blueviolet" alt="Codewars" />
-    </a>
-</p>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=650&height=60&lines=Hey+there%2C;I'm+Ra%C3%BAl+Fern%C3%A1ndez%2C+a+software+developer+from+Spain.)](https://git.io/typing-svg)
+### Databases :floppy_disk:
 
-```typescript
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-export default class About extends Me {
-
-    public getCurrentWorkplace() {
-        return {
-            company: 'FLEXIWATT SMARTGRID SL',
-            position: 'Full Stack Developer'
-        };
-    }
-
-    public getDailyKnowledge() {
-        return [
-            'Go and PostgreSQL',
-            'Docker',
-            'Kubernetes'
-        ];
-    }
-
-    public getFutureGoals() {
-        return [
-            'Keep learning about clean code, S.O.L.I.D. principles, Testing and clean architecture',
-            'Improve my English',
-            'to contribute to open source'
-        ];
-    }
-
-}
-
-```
-
-## Current Stack :books:
-
-|                                       **Programming Lang**                                       |                                                    **Databases**                                                     |
-| :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-
-
-## GitHub Stats :bar_chart:
-
-<p align = "center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rfdez&theme=rogue"/>
-</p>
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfdez&show_icons=true&theme=tokyonight"/>
-  &ensp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&langs_count=5&theme=tokyonight&layout=compact&hide=blade" />
-</p>
-
-## A bit of music :notes:
-
-<p align = "center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1127892570"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfdez&theme=tokyonight&layout=compact&card_width=250&hide=blade)](https://github.com/anuraghazra/github-readme-stats)&ensp;
+[![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfdez&theme=tokyonight&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
