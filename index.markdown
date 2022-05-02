@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[![Raúl's GitHub Banner](https://user-images.githubusercontent.com/49290264/166145573-1aba6af7-20e0-4fe3-a3f0-f4335323eb94.png)](https://raulfernandez.dev)
+[![Raúl's GitHub Banner](https://user-images.githubusercontent.com/49290264/166145573-1aba6af7-20e0-4fe3-a3f0-f4335323eb94.png)](https://raulfernandez.dev){:target="_blank"}
 
 [![LinkedIn](https://img.shields.io/badge/raúl_fernández-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandez-fernandez)
 &ensp;

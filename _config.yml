@@ -24,8 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Raúl Fernández Fernández personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raulfernandez.dev" # the base hostname & protocol for your site, e.g. http://example.com
+domain:
+  - raulfernandez.dev
 github_username:  rfdez
 linkedin_username: raul-fernandez-fernandez
+google_analytics: G-221JLRHCY7
 
 # Build settings
 theme: minima
@@ -56,8 +59,3 @@ exclude:
   - README.md
   - .editorconfig
   - Makefile
-
-domain:
-  - raulfernandez.dev
-
-google_analytics: G-221JLRHCY7

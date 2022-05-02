@@ -9,10 +9,10 @@ all: help
 
 ## Development:
 build: ## Build the site
-	@bundle exec jekyll serve
+	@JEKYLL_ENV=production bundle exec jekyll serve
 
 watch: ## Build and watch for changes
-	@bundle exec jekyll serve --livereload
+	@JEKYLL_ENV=production bundle exec jekyll serve --watch --livereload
 
 GREEN  := $(shell tput -Txterm setaf 2)
 YELLOW := $(shell tput -Txterm setaf 3)
