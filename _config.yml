@@ -55,6 +55,7 @@ exclude:
   - vendor/ruby/
   - README.md
   - .editorconfig
+  - Makefile
 
 domain:
   - raulfernandez.dev
